@@ -1,0 +1,14 @@
+**Database Name: hmisphp**
+
+**Recommended PHP Version 5.6, 7.4**
+
+**Admin Login Details**
+
+Email   : alan.clintantone1921@mail.com
+Password: Password@123
+
+
+**Doctor Login Details**
+
+ID      : YDS7L
+Password: passwordupdated
