@@ -11,4 +11,4 @@ Password: Password@123
 **Doctor Login Details**
 
 ID      : YDS7L
-Password: passwordupdated
+Password: Password@123
